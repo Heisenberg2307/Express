@@ -123,7 +123,7 @@ $ node examples/content-negotiation
   [![Test Coverage][coveralls-image]][coveralls-url]
 
 The Express.js project welcomes all constructive contributions. Contributions take many forms,
-from code for bug fixes and enhancements, to additions and fixes to documentation, additional
+from code for bug fixes and enhancements to additions and fixes to documentation, additional
 tests, triaging incoming pull requests and issues, and more!
 
 See the [Contributing Guide](Contributing.md) for more technical details on contributing.
